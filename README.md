@@ -1,4 +1,5 @@
-# rose
+# rose项目布局
+
 cmd：程序的入口，存放main.go文件
 
 etc：存放配置文件，使用yaml文件作为配置文件
